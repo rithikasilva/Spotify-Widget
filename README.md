@@ -1,5 +1,7 @@
 # Spotify Widget
+Fork of [Spotify-Widget](https://github.com/Naushikha/Spotify-Widget).
 
+<!-- 
 This is a small HTML widget that can be used to display your currently playing Spotify song in websites.
 
 File | Purpose 
@@ -16,4 +18,4 @@ https://blog.naushikha.com/p/music.html
 
 If you want to learn how to set this up in your own blog, check out the guide;
 
-https://blog.naushikha.com/2021/05/lets-deploy-your-own-spotify-widget.html
+https://blog.naushikha.com/2021/05/lets-deploy-your-own-spotify-widget.html -->
